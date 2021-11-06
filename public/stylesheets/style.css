@@ -163,7 +163,7 @@ h1, h2 {
 
 footer p {
   font-size: .8rem;
-  color: #7e6b69;;
+  color: #7e6b69;
 }
 
 .container-home, 
@@ -173,6 +173,10 @@ footer p {
   align-items: center;
   justify-content: space-around;
   min-height: 100vh;
+}
+
+.not-found h1{
+  padding-top: 70px;
 }
 
 @media (min-width: 768px) {
